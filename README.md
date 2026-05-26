@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my first console.log<br>🎯 Goals: Build real world projects</p>
+<p align="left">
+✨ Creating bugs since my first console.log<br>
+🎯 Goals: Build real world projects<br>
+📫 sarangdas57@gmail.com<br>
+💼 <a href="https://www.linkedin.com/in/sarang-das">linkedin.com/in/sarang-das</a>
+</p>
 
 ###
 
@@ -52,6 +57,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
 </div>
 
-### 
+###
+
+<h2 align="left">Projects</h2>
+
+**Mini Student Activity Tracker**
+A lightweight activity tracking system for students with a clean React frontend and async FastAPI backend.
+`React` `FastAPI`
+
+**Mini Jira**
+A simplified project management board with task creation and status tracking, inspired by Jira.
+`React` `Django`
+
+###
+
+<h2 align="left">GitHub Stats</h2>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sarangdask&show_icons=true&theme=default&hide_border=true&count_private=true)
