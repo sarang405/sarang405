@@ -79,8 +79,3 @@ A lightweight activity tracking system for students with a clean React frontend 
 A simplified project management board with task creation and status tracking, inspired by Jira.
 `React` `Django`
 
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sarangdask&show_icons=true&theme=default&hide_border=true&count_private=true)
